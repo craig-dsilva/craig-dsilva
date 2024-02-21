@@ -1,9 +1,11 @@
 <h1 align="center">Craig D'Silva</h1>
 
-Hi 👋, I'm Craig D'Silva, a Full-Stack Developer based in London. I'm a hardworking, enthusiastic and passionate person. I enjoy learning new things and I like working on challenging tasks. I'm also a quick learner and I can learn new technologies with little to no help.
+Hi 👋, I'm Craig D'Silva, a DevOps Engineer based in London. I'm a hardworking, enthusiastic and passionate person. I enjoy learning new things and I like working on challenging tasks. 
 
 -  I’m currently a DevOps Engineer at [CodeYourFuture](https://codeyourfuture.io/)
--  I'm looking for a role of a Software Engineer
+-  I'm looking for a role of a DevOps Engineer
+
+<img src="https://www.codewars.com/users/craig-dsilva/badges/large" align="center" />
 
 ## Skills
 

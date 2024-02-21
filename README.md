@@ -5,7 +5,7 @@ Hi 👋, I'm Craig D'Silva, a DevOps Engineer based in London. I'm a hardworking
 -  I’m currently a DevOps Engineer at [CodeYourFuture](https://codeyourfuture.io/)
 -  I'm looking for a role of a DevOps Engineer
 
-<img src="https://www.codewars.com/users/craig-dsilva/badges/large" align="center" />
+![](https://www.codewars.com/users/craig-dsilva/badges/large)
 
 ## Skills
 

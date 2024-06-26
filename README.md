@@ -1,6 +1,6 @@
 <h1 align="center">Craig D'Silva</h1>
 
-Hi 👋, I'm Craig D'Silva, a DevOps Engineer based in London. I'm a hardworking, enthusiastic and passionate person. I enjoy learning new things and I like working on challenging tasks. 
+Hi 👋, I'm Craig D'Silva, a Software Engineer based in London. I'm a hardworking, enthusiastic and passionate person. I enjoy learning new things and I like working on challenging tasks. 
 
 -  I’m currently a Software Engineer at [CodeYourFuture](https://codeyourfuture.io/)
 -  I'm looking for a role of a Software Engineer

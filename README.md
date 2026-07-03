@@ -1,10 +1,8 @@
 <h1 align="center">Craig D'Silva</h1>
 
-Hi 👋, I'm Craig D'Silva, a Software Engineer based in London. I'm a hardworking, enthusiastic and passionate person. I enjoy learning new things and I like working on challenging tasks. 
+Hi 👋, I'm Craig D'Silva, a Software Engineer based in London. I have 3 years of experience working in an Agile team for a Full-Stack application. I like learning new technologies and staying current with the industry standards.
 
--  I’m currently a Software Engineer volunteer at [CodeYourFuture](https://codeyourfuture.io/)
-
-![](https://www.codewars.com/users/craig-dsilva/badges/large)
+[![](https://www.codewars.com/users/craig-dsilva/badges/large)](https://www.codewars.com/users/craig-dsilva)
 
 ## Skills
 
@@ -21,6 +19,7 @@ Hi 👋, I'm Craig D'Silva, a Software Engineer based in London. I'm a hardworki
 ### Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -50,17 +49,8 @@ Hi 👋, I'm Craig D'Silva, a Software Engineer based in London. I'm a hardworki
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry PI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-<!--
-**craig-dsilva/craig-dsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### [OpenRouter Generator](https://github.com/craig-dsilva/openrouter-generator)
+This is an Image Generation frontend for [OpenRouter](https://openrouter.ai).
+### [TFL Live Arrivals](https://github.com/craig-dsilva/tfl-live-arrivals)
+I built this React Native application, which gives the user the ETA of train arrivals at stations in London.
